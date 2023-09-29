@@ -1,9 +1,9 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Abhay</h1>
+<h1 align="center">Hello‘‹, I'm Abhay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- ðŸŒ± Iâ€™m currently learning **Redux**
+- I am currently learning **Redux**
 
-- ðŸ“« How to reach me **abhaysharma7435@gmail.com**
+-  How to reach me **abhaysharma7435@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
